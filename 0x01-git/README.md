@@ -1,2 +1,1 @@
-my second commit
-new edit
+new hot fix
